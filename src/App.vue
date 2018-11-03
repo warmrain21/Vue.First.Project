@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <nav-bar></nav-bar>
+    <h1>Hello Word</h1>
     <button class="btn btn-success" @click="isNew = !isNew">
       Create
     </button>
